@@ -11,6 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "My name POM MOUYLANG!" );
         System.out.println( "I'm 22 years old!" );
-        System.out.println( "I'm 22 years old!" )
+        // System.out.println( "I'm 22 years old!" );
     }
 }
